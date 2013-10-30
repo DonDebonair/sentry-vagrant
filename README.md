@@ -40,3 +40,5 @@ Now you can navigate to [localhost:4567](localhost:4567) in a browser on your ho
 
 * Sentry will sometimes drop the port-number (4567) in links. If that happens, just add the port-number back to the URL
 * Mailer doesn't work yet
+* At the moment, the provisioning scripts are tightly coupled to the OS (Ubuntu), I'd like to change that in the future
+* This hasn't been tested on other Providers than VirtualBox yet
