@@ -26,7 +26,7 @@ SENTRY_PUBLIC = False
 SENTRY_WEB_HOST = '0.0.0.0'
 SENTRY_WEB_PORT = 9000
 
-ALLOWED_HOSTS = ['localhost']
+ALLOWED_HOSTS = ['*']
 
-SENTRY_URL_PREFIX = 'http://localhost:4567'
-SENTRY_LOGIN_URL = 'http://localhost:4567/login/'
+SENTRY_URL_PREFIX = 'http://192.168.33.10'
+SENTRY_LOGIN_URL = 'http://192.168.33.10/login/'
