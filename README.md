@@ -1,4 +1,4 @@
-**Note: This repo isn't maintained anymore. I've chosen Ansible in favor of Puppet to continue my work on installing tooling like Sentry. [This](https://github.com/DandyDev/sentry-ansible-vagrant) is the Ansible version of Sentry Vagrant.
+**Note: This repo isn't maintained anymore. I've chosen Ansible in favor of Puppet to continue my work on installing tooling like Sentry. [This](https://github.com/DandyDev/sentry-ansible-vagrant) is the Ansible version of Sentry Vagrant.**
 
 # Sentry Vagrant
 
