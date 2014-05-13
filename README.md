@@ -1,3 +1,5 @@
+**Note: This repo isn't maintained anymore. I've chosen Ansible in favor of Puppet to continue my work on installing tooling like Sentry. [This](https://github.com/DandyDev/sentry-ansible-vagrant) is the Ansible version of Sentry Vagrant.
+
 # Sentry Vagrant
 
 Sentry Vagrant is a complete, hassle-free way to setup [Sentry](https://github.com/getsentry/sentry) on a Virtual Machine so you can play around with it. It uses [Vagrant](http://www.vagrantup.com/) to assemble the VM and [Puppet](http://puppetlabs.com/) to provision it. What gets installed:
